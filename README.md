@@ -14,4 +14,4 @@ ollama pull llama3
 ollama pull nomic-embed-text
 
 
-Una vez tengáis todo eso instalado y ejecutéis el código de aurora.py, podréis acceder al RAG si buscáis en el navegador: http://127.0.0.1:7860
+Una vez tengáis todo eso instalado y ejecutéis el código de aurora.py en vuestro editor de código (recomiendo Visual Studio Code), podréis acceder al RAG si buscáis en el navegador: http://127.0.0.1:7860
