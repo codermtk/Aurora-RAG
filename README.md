@@ -7,8 +7,11 @@ Como usamos RAG, da igual cómo de grande sea tu documento o la web, que podrá 
 
 Podéis usar el editor de código que queráis, pero debéis de ejecutar los siguientes comandos antes para que os funcione todo:
 
-pip install ollama langchain beautifulsoup4 chromadb gradio 
+pip install ollama langchain beautifulsoup4 chromadb gradio
+
 ollama pull llama3 
+
 ollama pull nomic-embed-text
+
 
 Una vez tengáis todo eso instalado y ejecutéis el código, podréis acceder al RAG si buscáis en el navegador: http://127.0.0.1:7860
